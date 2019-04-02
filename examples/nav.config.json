@@ -96,6 +96,11 @@
               "path": "/select",
               "title": "Select 选择器"
             },
+
+            {
+              "path": "/selectMobile",
+              "title": "SelectMobile"
+            },
             {
               "path": "/cascader",
               "title": "Cascader 级联选择器"
@@ -612,6 +617,7 @@
               "path": "/select",
               "title": "Select"
             },
+
             {
               "path": "/cascader",
               "title": "Cascader"
