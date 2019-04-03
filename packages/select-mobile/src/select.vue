@@ -4,6 +4,7 @@
     :class="[selectSize ? 'el-select--' + selectSize : '']"
     @click.stop="toggleMenu"
     v-clickoutside="handleClose">
+    asdfads
     <div
       class="el-select__tags"
       v-if="multiple"

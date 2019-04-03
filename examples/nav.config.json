@@ -99,7 +99,7 @@
 
             {
               "path": "/selectMobile",
-              "title": "SelectMobile"
+              "title": "SelectMobile 选择器"
             },
             {
               "path": "/cascader",
